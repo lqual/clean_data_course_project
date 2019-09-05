@@ -42,3 +42,7 @@ This step should come after step 7 according to the assignment, but I did it fir
 Step 7.  Changing Activity Variable from Numbers to Description
 
 I made a vector of the activity column data to find the length of the column and created a new character vector of the activity names.  Then I made a for loop which went through every value in the vector, determined what the descriptive name should be for that particular instance (1 == "walking, 2 == "walk_upstairs", 3 == "walk_downstairs", 4 == "sitting", 5 == "standing", and 6 == "laying") and assigning that value to the same place in the new character vector.  Then I reassigned the variables in the activity column to be the newly made character vector.
+
+Step 8.  Making the New Tidy Data of Averages
+
+
