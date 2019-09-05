@@ -22,11 +22,17 @@ These signals were used to estimate variables of the feature vector for each pat
 "activity": 1 of 6 activities including walking, walk_upstairs, walk_downstairs, standing, sitting, and laying
 
 "timeBodyAcc.mean.X"
+
 "timeBodyAcc.mean.Y"
+
 "timeBodyAcc.mean.Z"
+
 "timeBodyAcc.std.X"
+
 "timeBodyAcc.std.Y"
+
 "timeBodyAcc.std.Z"
+
 The above variables are the average and standard deviation time readings of the body acceleration signals.  The values in the table are the average for the subject and activity.
 
 "timeGravityAcc.mean.X"
