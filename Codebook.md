@@ -36,91 +36,185 @@ These signals were used to estimate variables of the feature vector for each pat
 The above variables are the average and standard deviation time readings of the body acceleration signals.  The values in the table are the average for the subject and activity.
 
 "timeGravityAcc.mean.X"
+
 "timeGravityAcc.mean.Y"
+
 "timeGravityAcc.mean.Z"
+
 "timeGravityAcc.std.X"
+
 "timeGravityAcc.std.Y"
+
 "timeGravityAcc.std.Z"
+
 The above variables are the average and standard deviation time readings of the gravity acceleration signals.  The values in the table are the average for the subject and activity.
 
 "timeBodyAccJerk.mean.X"
+
 "timeBodyAccJerk.mean.Y"
+
 "timeBodyAccJerk.mean.Z"
+
 "timeBodyAccJerk.std.X"
+
 "timeBodyAccJerk.std.Y"
+
 "timeBodyAccJerk.std.Z"
+
 The above variables are the average and standard deviation time readings of the body acceleration Jerk signals.  The values in the table are the average for the subject and activity.
 
 "timeBodyGyro.mean.X"
+
 "timeBodyGyro.mean.Y"
+
 "timeBodyGyro.mean.Z"
+
 "timeBodyGyro.std.X"
+
 "timeBodyGyro.std.Y"
+
 "timeBodyGyro.std.Z"
+
 The above variables are the average and standard deviation time readings of the body angular velocity signals.  The values in the table are the average for the subject and activity.
 
 "timeBodyGyroJerk.mean.X"
+
 "timeBodyGyroJerk.mean.Y"
+
 "timeBodyGyroJerk.mean.Z"
+
 "timeBodyGyroJerk.std.X"
+
 "timeBodyGyroJerk.std.Y"
+
 "timeBodyGyroJerk.std.Z"
+
 The above variables are the average and standard deviation time readings of the body angular velocity Jerk signals.  The values in the table are the average for the subject and activity.
 
 "timeBodyAccMag.mean"
+
 "timeBodyAccMag.std"
+
 The above variables are the average and standard deviation time readings of the magnitude of the body acceleration signals.  The values in the table are the average for the subject and activity.
 
 "timeGravityAccMag.mean"
+
 "timeGravityAccMag.std"
+
 The above variables are the average and standard deviation time readings of the magnitude of the gravity acceleration signals.  The values in the table are the average for the subject and activity.
 
 "timeBodyAccJerkMag.mean"
+
 "timeBodyAccJerkMag.std"
+
 The above variables are the average and standard deviation time readings of the body acceleration Jerk signals.  The values in the table are the average for the subject and activity.
 
 "timeBodyGyroMag.mean"
+
 "timeBodyGyroMag.std"
+
 The above variables are the average and standard deviation time readings of the magnitude of the body angular velocity signals.  The values in the table are the average for the subject and activity.
 
 "timeBodyGyroJerkMag.mean"
+
 "timeBodyGyroJerkMag.std"
+
+The above variables are the average and standard deviation time readings of the magnitude of the body angular velocity Jerk signals.  The values in the table are the average for the subject and activity.
+
 "freqBodyAcc.mean.X"
+
 "freqBodyAcc.mean.Y"
+
 "freqBodyAcc.mean.Z"
+
 "freqBodyAcc.std.X"
+
 "freqBodyAcc.std.Y"
+
 "freqBodyAcc.std.Z"
+
+The above variables are the average and standard deviation frequency readings of the body acceleration signals.  The values in the table are the average for the subject and activity.
+
 "freqBodyAcc.meanFreq.X"
+
 "freqBodyAcc.meanFreq.Y"
+
 "freqBodyAcc.meanFreq.Z"
+
+The above variables are the average frequency readings of the body acceleration signals for each occurence.  The values in the table are the average for the subject and activity.
+
 "freqBodyAccJerk.mean.X"
+
 "freqBodyAccJerk.mean.Y"
+
 "freqBodyAccJerk.mean.Z"
+
 "freqBodyAccJerk.std.X"
+
 "freqBodyAccJerk.std.Y"
+
 "freqBodyAccJerk.std.Z"
+
+The above variables are the average and standard deviation frequency readings of the body acceleration Jerk signals.  The values in the table are the average for the subject and activity.
+
 "freqBodyAccJerk.meanFreq.X"
+
 "freqBodyAccJerk.meanFreq.Y"
+
 "freqBodyAccJerk.meanFreq.Z"
+
+The above variables are the average frequency readings of the body acceleration Jerk signals for each occurence.  The values in the table are the average for the subject and activity.
+
 "freqBodyGyro.mean.X"
+
 "freqBodyGyro.mean.Y"
+
 "freqBodyGyro.mean.Z"
+
 "freqBodyGyro.std.X"
+
 "freqBodyGyro.std.Y"
+
 "freqBodyGyro.std.Z"
+
+The above variables are the average and standard deviation frequency readings of the body angular velocity signals.  The values in the table are the average for the subject and activity.
+
 "freqBodyGyro.meanFreq.X"
+
 "freqBodyGyro.meanFreq.Y"
+
 "freqBodyGyro.meanFreq.Z"
+
+The above variables are the average frequency readings of the body angular velocity signals for each occurence.  The values in the table are the average for the subject and activity.
+
 "freqBodyAccMag.mean"
+
 "freqBodyAccMag.std"
+
 "freqBodyAccMag.meanFreq"
+
+The above variables are the average and standard deviation frequency readings of the magnitude of the body acceleration signals (over each occurence for the meanFreq).  The values in the table are the average for the subject and activity.
+
 "freqBodyBodyAccJerkMag.mean"
+
 "freqBodyBodyAccJerkMag.std"
+
 "freqBodyBodyAccJerkMag.meanFreq"
+
+The above variables are the average and standard deviation frequency readings of the magnitude of the body acceleration Jerk signals (over each occurence for the meanFreq).  The values in the table are the average for the subject and activity.
+
 "freqBodyBodyGyroMag.mean"
+
 "freqBodyBodyGyroMag.std"
+
 "freqBodyBodyGyroMag.meanFreq"
+
+The above variables are the average and standard deviation frequency readings of the magnitude of the body angular velocity signals (over each occurence for the meanFreq).  The values in the table are the average for the subject and activity.
+
 "freqBodyBodyGyroJerkMag.mean"
+
 "freqBodyBodyGyroJerkMag.std"
+
 "freqBodyBodyGyroJerkMag.meanFreq"
+
+The above variables are the average and standard deviation frequency readings of the magnitude of the body angular velocity Jerk signals (over each occurence for the meanFreq).  The values in the table are the average for the subject and activity.
