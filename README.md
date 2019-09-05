@@ -15,6 +15,13 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 In this repository is a file called Codebook.  This codebook indicates all the variables and summaries caculated and any other relevant information.  The base for the codebook is the codebook from the zip file.
 
+# Reading the Tidy Data Text File
+
+The code below will allow you to read the tidy data text file in R as that will make things easier to read.
+
+  data <- read.table(file_path, header = TRUE) 
+  View(data)
+
 # run_analysis.R
 
 In this repository is a file called run_analysis.R.  This file contains the R code to convert the data into a tidy data set containing the average readings of each variable for each subject and each activity.  I will run over what I did to the data below in addition to the notes in the run_analysis.R file.
